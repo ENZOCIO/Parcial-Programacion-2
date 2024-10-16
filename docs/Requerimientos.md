@@ -1,5 +1,4 @@
 
-De la entrevista con el cliente se ha obtenido el siguiente listado de requerimientos:
 
 - El sistema debe de verificar la disponibilidad de los médicos según la especialidad.
 - El sistema debe poder asignar un doctor de preferencia.
